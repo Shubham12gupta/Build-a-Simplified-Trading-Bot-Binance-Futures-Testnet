@@ -1,6 +1,7 @@
 # Build-a-Simplified-Trading-Bot-Binance-Futures-Testnet
 # Binance Futures Testnet Trading Bot
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da23ae7b-29ee-4463-b79c-9440b1e29715" />
+<img width="1865" height="848" alt="image" src="https://github.com/user-attachments/assets/683c770f-079a-45ef-a888-de9ee3e30170" />
+
 
 
 ## 🚀 Features
