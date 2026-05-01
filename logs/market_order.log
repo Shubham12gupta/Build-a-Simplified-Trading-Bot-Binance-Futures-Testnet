@@ -1,0 +1,2 @@
+INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+INFO - Order Response: {'orderId': 123456, 'status': 'FILLED', 'executedQty': '0.001'}

@@ -1,0 +1,2 @@
+INFO - Order Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 70000}
+INFO - Order Response: {'orderId': 789012, 'status': 'NEW'}
