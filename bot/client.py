@@ -1,8 +1,5 @@
-import os
 from binance.client import Client
-from dotenv import load_dotenv
-
-load_dotenv()
+import os
 
 class BinanceFuturesClient:
     def __init__(self):
